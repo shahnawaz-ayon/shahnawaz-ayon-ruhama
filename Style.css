@@ -1,0 +1,24 @@
+.title{
+    background-color: azure;
+    border:2px solid teal;
+    height: 100px;
+    text-align: center;
+    font-family: 'Benne', serif;
+    padding:5px;
+}
+
+.intro{
+background-color: blanchedalmond;
+border:2px solid teal;
+height: 100px;
+text-align: center;
+font-family: 'Benne', serif;
+padding:5px;
+}
+
+#us{
+height:300px;
+width:400px;
+
+
+}
